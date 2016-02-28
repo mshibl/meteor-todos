@@ -1,3 +1,3 @@
 # meteor-todos
-Learning Meteor
+Learning Meteor ny building a todo list
 https://www.meteor.com/tutorials/blaze/creating-an-app
